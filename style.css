@@ -1,0 +1,39 @@
+#navbor{
+    height: 70px;
+    background-color: red;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#logo{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    border-radius: 50%;
+    background-image: url(pretty.jpg);
+    background-size: cover;
+    position: relative;
+     left: 550px;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+#colr{
+    color: orange;
+}
+.space{
+    margin-left: 150px;
+}
+.unity{
+    margin-left: 100px;
+}
+.cent{
+    color: red;
+    text-align: center;
+   font-size:80px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
